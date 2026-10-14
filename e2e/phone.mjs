@@ -7,7 +7,7 @@ import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const require = createRequire(import.meta.url);
-const puppeteer = require(process.env.PUPPETEER_PATH || "/home/pingywon/gc-klaviyo/node_modules/puppeteer-core");
+const puppeteer = require(process.env.PUPPETEER_PATH || "puppeteer-core");
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const BASE = process.env.BASE || "http://127.0.0.1:8171/";
 const SHOTS = process.env.SHOTS || join(root, "shots");
