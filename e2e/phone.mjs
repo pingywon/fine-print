@@ -135,6 +135,15 @@ for (const scheme of ["light", "dark"]) {
       check(`${tag}: a quote not in the text is flagged`, missing === 1, String(missing));
     }
 
+    if (d.name === "desk") {
+      await page.goto(BASE, { waitUntil: "networkidle0" });
+      const input = await page.$("#pdf-input");
+      await input.uploadFile(join(root, "e2e/fixtures/gym.pdf"));
+      await page.waitForFunction(() => document.getElementById("doc-text").value.length > 1000, { timeout: 15000 });
+      const pdfText = await page.$eval("#doc-text", (el) => el.value);
+      check(`${tag}: PDF upload fills the text`, pdfText.includes("IRONWORKS FITNESS CLUB") && pdfText.includes("Annual Club Enhancement Fee"), `${pdfText.length} chars`);
+    }
+
     check(`${tag}: no page errors`, errors.length === 0, errors.join(" | "));
     await page.close();
   }
