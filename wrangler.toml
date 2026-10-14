@@ -8,6 +8,10 @@ routes = [{ pattern = "fineprint.meetdominic.me", custom_domain = true }]
 directory = "./dist"
 binding = "ASSETS"
 
+[[kv_namespaces]]
+binding = "FP_KV"
+id = "96f753860dac4c6599d93e76274c2511"
+
 [vars]
 LIVE_READING = "on"
 READS_PER_VISITOR = "3"
