@@ -1,0 +1,22 @@
+{
+  "name": "fine-print",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Paste an agreement, get the plain version, what is unusual, and what to ask before you sign.",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test test/",
+    "e2e": "node test/e2e/phone.mjs",
+    "samples": "node scripts/make-samples.mjs",
+    "deploy": "node scripts/build.mjs && node --test test/ && wrangler deploy"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.133.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "wrangler": "^3.114.17"
+  }
+}
