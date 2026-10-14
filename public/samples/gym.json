@@ -1,0 +1,179 @@
+{
+  "id": "gym",
+  "label": "Gym membership",
+  "text": "IRONWORKS FITNESS CLUB\nMEMBERSHIP AGREEMENT\n\nMember: Taylor Brennan\nHome Club: IronWorks Riverton, 55 Canal Road, Riverton, PA 17099\nMembership Type: Premier Monthly (12-Month Commitment)\nAgreement Date: October 20, 2026\nMembership Start Date: October 20, 2026\n\nFEES\nEnrollment Fee: $49.00, due today\nFirst Month Dues: $39.99, due today\nMonthly Dues: $39.99, charged on the 20th of each month\nAnnual Club Enhancement Fee: $59.00, charged each year on February 15\nTotal Due Today: $88.99\n\n1. MEMBERSHIP TERM. This membership has a minimum term of twelve (12) months beginning on the Membership Start Date (the \"Commitment Period\"). After the Commitment Period, this membership will continue on a month-to-month basis until cancelled in accordance with Section 6.\n\n2. AUTOMATIC PAYMENTS. You authorize IronWorks Fitness Club (\"IronWorks\") to charge the credit card, debit card, or bank account on file for all dues, fees, and charges under this Agreement on the dates they are due, without further notice. If a payment is declined, a declined payment fee of $20.00 will be charged, and IronWorks may re-attempt the payment, including the fee, at any time. If you update your payment method with your bank or card issuer, IronWorks may obtain the updated account information and continue charging it.\n\n3. ANNUAL CLUB ENHANCEMENT FEE. The Annual Club Enhancement Fee is charged each year on February 15 to all active members, including members in their first year, and is not prorated or refundable. The first Annual Club Enhancement Fee under this Agreement will be charged on February 15, 2027.\n\n4. PRICE CHANGES. IronWorks may increase monthly dues, the Annual Club Enhancement Fee, or other fees after the Commitment Period by posting notice in the club at least thirty (30) days before the increase takes effect. Continued use of the club after the effective date constitutes acceptance of the new rate.\n\n5. FREEZING YOUR MEMBERSHIP. You may freeze your membership for one (1) to three (3) months per year by submitting a request in person at your Home Club. A freeze fee of $10.00 per month applies. Your Commitment Period will be extended by the length of any freeze.\n\n6. CANCELLATION. You may cancel your membership after the Commitment Period by (a) delivering a completed cancellation form in person at your Home Club, or (b) sending a written cancellation request by certified mail, return receipt requested, to IronWorks Member Services, P.O. Box 2210, Riverton, PA 17099. Cancellation requests made by telephone, email, the IronWorks app, or through any third party will not be accepted. Cancellation takes effect thirty (30) days after IronWorks receives your request, and you will be charged any dues and fees that come due during those thirty (30) days.\n\n7. EARLY CANCELLATION. If you cancel during the Commitment Period, you must pay an early cancellation fee of $99.00 plus all remaining monthly dues for the Commitment Period, unless you qualify for a cancellation under Section 8.\n\n8. CANCELLATION RIGHTS UNDER LAW. You may cancel this Agreement without penalty within three (3) business days of signing by delivering written notice to your Home Club. You may also cancel if you relocate more than twenty-five (25) miles from any IronWorks club, with proof of your new address, or if a physician certifies that you cannot use the club for medical reasons, with a written statement from the physician.\n\n9. CLUB CLOSURES. IronWorks may close all or part of any club for maintenance, renovation, holidays, weather, or events beyond its control. Membership dues will continue to be charged during any closure of forty-five (45) days or less, and no credit or refund will be given.\n\n10. PERSONAL TRAINING. Personal training sessions are sold separately. All personal training sessions must be used within ninety (90) days of purchase and expire after that date with no refund. Sessions cancelled with less than twenty-four (24) hours' notice will be forfeited.\n\n11. GUEST PRIVILEGES. Premier members may bring one (1) guest per visit. Guests must be at least eighteen (18) years old, present valid photo identification, and sign a guest waiver. IronWorks may limit or end guest privileges at any time.\n\n12. CLUB RULES. You agree to follow all posted club rules, which IronWorks may change at any time. IronWorks may suspend or terminate your membership for violation of club rules, and no refund will be given for unused dues or fees.\n\n13. ASSUMPTION OF RISK AND RELEASE. You understand that physical exercise involves the risk of injury. You voluntarily assume all risks of using the club, its equipment, and its services, and you release IronWorks, its owners, employees, and agents from any and all claims for injury, illness, death, or property loss arising from your membership, including claims arising from the negligence of IronWorks or its employees.\n\n14. LOCKERS AND PERSONAL PROPERTY. Day-use lockers must be emptied each day. IronWorks is not responsible for lost, stolen, or damaged property. Items left in day-use lockers overnight may be removed and discarded.\n\n15. ARBITRATION. Any dispute arising out of this Agreement or your membership will be resolved by binding individual arbitration administered by a provider selected by IronWorks. You waive any right to a jury trial and any right to participate in a class action.\n\n16. ENTIRE AGREEMENT. This Agreement, together with the posted club rules, is the entire agreement between you and IronWorks. No oral promises by any IronWorks employee are binding.\n\nMEMBER SIGNATURE: Taylor Brennan\nIRONWORKS REPRESENTATIVE: Chris Vance, Membership Advisor",
+  "reading": {
+    "readable": true,
+    "kind_of_document": "Gym membership agreement",
+    "title": "IronWorks Fitness Premier Monthly membership, Riverton",
+    "parties": [
+      {
+        "role": "Gym",
+        "name": "IronWorks Fitness Club"
+      },
+      {
+        "role": "You (Member)",
+        "name": "Taylor Brennan"
+      }
+    ],
+    "summary": "This is a 12-month gym contract between you and IronWorks Fitness Club. You pay $88.99 today, then $39.99 a month plus a $59.00 yearly fee every February 15. That comes to about $587.88 for the first year. The biggest issue is getting out: leaving early costs $99.00 plus every remaining month, and after the first year you can only cancel in person or by certified mail.",
+    "key_terms": [
+      {
+        "label": "Due today",
+        "value": "$88.99",
+        "quote": "Total Due Today: $88.99"
+      },
+      {
+        "label": "Monthly dues",
+        "value": "$39.99 on the 20th",
+        "quote": "Monthly Dues: $39.99, charged on the 20th of each month"
+      },
+      {
+        "label": "Yearly fee",
+        "value": "$59.00 every February 15",
+        "quote": "Annual Club Enhancement Fee: $59.00, charged each year on February 15"
+      },
+      {
+        "label": "Minimum length",
+        "value": "12 months, then month-to-month",
+        "quote": "This membership has a minimum term of twelve (12) months beginning on the Membership Start Date (the \"Commitment Period\")."
+      },
+      {
+        "label": "Early exit cost",
+        "value": "$99.00 plus all remaining dues",
+        "quote": "you must pay an early cancellation fee of $99.00 plus all remaining monthly dues for the Commitment Period"
+      },
+      {
+        "label": "Cancellation notice",
+        "value": "30 days, and you still pay",
+        "quote": "Cancellation takes effect thirty (30) days after IronWorks receives your request, and you will be charged any dues and fees that come due during those thirty (30) days."
+      },
+      {
+        "label": "Declined payment fee",
+        "value": "$20.00",
+        "quote": "If a payment is declined, a declined payment fee of $20.00 will be charged"
+      },
+      {
+        "label": "Freeze",
+        "value": "1 to 3 months a year, $10.00 a month",
+        "quote": "You may freeze your membership for one (1) to three (3) months per year by submitting a request in person at your Home Club. A freeze fee of $10.00 per month applies."
+      }
+    ],
+    "push_back": [
+      {
+        "title": "Leaving early costs the full year",
+        "why": "If you quit in month 2, you still owe about 10 more months of dues plus $99.00. That is close to $500 for a gym you no longer use.",
+        "ask": "Can you replace this with a flat early cancellation fee, or let me buy out the contract for a set amount?",
+        "quote": "you must pay an early cancellation fee of $99.00 plus all remaining monthly dues for the Commitment Period"
+      },
+      {
+        "title": "Hard ways to cancel",
+        "why": "You can sign up easily but can only quit in person or by certified mail. Phone, email, and the app do not count.",
+        "ask": "Can I cancel by email or through the app, with a written confirmation from you?",
+        "quote": "Cancellation requests made by telephone, email, the IronWorks app, or through any third party will not be accepted."
+      },
+      {
+        "title": "Yearly fee 4 months in",
+        "why": "You pay $59.00 on February 15, 2027, only about 4 months after you join. It is not prorated, meaning you pay the full amount no matter how long you have been a member.",
+        "ask": "Can you waive or prorate the first Annual Club Enhancement Fee since I am joining in October?",
+        "quote": "including members in their first year, and is not prorated or refundable. The first Annual Club Enhancement Fee under this Agreement will be charged on February 15, 2027."
+      },
+      {
+        "title": "Release covers the gym's own carelessness",
+        "why": "You give up claims even if staff cause your injury through negligence, meaning careless mistakes like broken equipment they failed to fix. Whether this holds up varies, so check the rules where you live.",
+        "ask": "Can you remove the words about negligence of IronWorks or its employees from Section 13?",
+        "quote": "including claims arising from the negligence of IronWorks or its employees"
+      },
+      {
+        "title": "Gym picks the arbitrator",
+        "why": "Arbitration means a private decision-maker settles disputes instead of a court. Here IronWorks alone chooses who runs it, and you give up jury trials and group lawsuits.",
+        "ask": "Can the arbitration provider be agreed on by both of us, or can small claims court be allowed?",
+        "quote": "binding individual arbitration administered by a provider selected by IronWorks"
+      }
+    ],
+    "good_to_know": [
+      {
+        "title": "Prices can rise after year one",
+        "why": "Notice is only posted inside the club, so you could miss it if you stop going. Using the club after the date counts as agreeing.",
+        "quote": "by posting notice in the club at least thirty (30) days before the increase takes effect"
+      },
+      {
+        "title": "You pay during closures",
+        "why": "If the club closes for up to 45 days, you still pay full dues with no credit.",
+        "quote": "Membership dues will continue to be charged during any closure of forty-five (45) days or less, and no credit or refund will be given."
+      },
+      {
+        "title": "Card updates follow you",
+        "why": "Getting a new card number may not stop charges, because IronWorks can get the updated details from your bank.",
+        "quote": "If you update your payment method with your bank or card issuer, IronWorks may obtain the updated account information and continue charging it."
+      },
+      {
+        "title": "Freezes lengthen your contract",
+        "why": "A freeze does not shorten your commitment. It pushes the end date back by the freeze length, and you must request it in person.",
+        "quote": "Your Commitment Period will be extended by the length of any freeze."
+      },
+      {
+        "title": "Training sessions expire fast",
+        "why": "Any personal training you buy must be used within 90 days or it is lost.",
+        "quote": "All personal training sessions must be used within ninety (90) days of purchase and expire after that date with no refund."
+      },
+      {
+        "title": "Spoken promises do not count",
+        "why": "Anything the salesperson tells you that is not written here is not binding.",
+        "quote": "No oral promises by any IronWorks employee are binding."
+      }
+    ],
+    "dates": [
+      {
+        "label": "Sign and pay first charges",
+        "date": "2026-10-20",
+        "when": "Agreement and start date. $88.99 is due that day.",
+        "quote": "Agreement Date: October 20, 2026"
+      },
+      {
+        "label": "3-day free cancellation window",
+        "date": null,
+        "when": "Within 3 business days after you sign. If you sign Tuesday October 20, that is likely by Friday October 23, 2026. Deliver written notice to the club.",
+        "quote": "You may cancel this Agreement without penalty within three (3) business days of signing by delivering written notice to your Home Club."
+      },
+      {
+        "label": "Monthly dues",
+        "date": null,
+        "when": "The 20th of every month.",
+        "quote": "Monthly Dues: $39.99, charged on the 20th of each month"
+      },
+      {
+        "label": "First yearly fee",
+        "date": "2027-02-15",
+        "when": "February 15, 2027, then every February 15.",
+        "quote": "The first Annual Club Enhancement Fee under this Agreement will be charged on February 15, 2027."
+      },
+      {
+        "label": "End of 12-month commitment",
+        "date": null,
+        "when": "12 months after October 20, 2026, later if you freeze. Send your cancellation at least 30 days ahead to avoid extra months.",
+        "quote": "You may cancel your membership after the Commitment Period by (a) delivering a completed cancellation form in person at your Home Club"
+      }
+    ],
+    "before_you_sign": [
+      "Decide if you will really use the gym for a full 12 months, since leaving early costs nearly the whole year.",
+      "Ask for the $59.00 February fee to be waived or prorated for your first year.",
+      "Get any promises from the salesperson added in writing to the agreement.",
+      "Ask for a copy of the posted club rules, since they are part of the contract.",
+      "Put the 3-day cancellation deadline and the February 15 charge in your calendar.",
+      "Keep a signed copy and save the certified mail address for cancelling later."
+    ],
+    "email": {
+      "subject": "Questions about the Premier Monthly membership agreement",
+      "body": "Hi Chris,\n\nI am reviewing the IronWorks Riverton Premier Monthly agreement before I sign and have a few questions.\n\n1. Can the early cancellation terms be a flat fee or buyout instead of $99.00 plus all remaining dues?\n2. Can I cancel by email or the app with written confirmation, instead of only in person or certified mail?\n3. Can you waive or prorate the $59.00 Annual Club Enhancement Fee due February 15, 2027, since I am joining in October?\n4. Can the release in Section 13 leave out claims caused by IronWorks' own negligence?\n5. Can the arbitration provider be chosen by both of us, or can small claims court be allowed?\n\nThank you for your help.\n\n[Your name]"
+    }
+  },
+  "meta": {
+    "model": "claude-opus-5-5",
+    "prompt": "2026-10-14.2",
+    "output_tokens": 4065,
+    "engine": "claude-code",
+    "generated_at": "2026-10-14T16:41:11.132Z",
+    "seconds": 39
+  }
+}

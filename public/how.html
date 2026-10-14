@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How it works | Fine Print</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="favicon.svg?v={{VERSION}}" type="image/svg+xml">
+<link rel="stylesheet" href="styles.css?v={{VERSION}}">
+</head>
+<body>
+<div class="wrap">
+  <header class="masthead">
+    <a class="wordmark" href="./"><span>Fine</span> Print</a>
+    <nav aria-label="Site"><a href="./">Read a document</a></nav>
+  </header>
+
+  <main class="prose">
+    <h1>How it works</h1>
+    <p>Fine Print reads an agreement and returns a short, plain reading: what it is, the numbers that matter, what to push back on, the dates to remember, and a message to send with your questions.</p>
+
+    <h2>Every point is checked against your document</h2>
+    <p>Each point carries the exact words it is based on. Before anything is shown, the page searches your document for those words and highlights them. A point whose wording cannot be found is marked, so nothing rests on a quote that is not really there.</p>
+
+    <h2>What happens to your document</h2>
+    <p>The text is sent once to Claude, Anthropic's AI model, to be read. This site does not save it, log it, or keep a copy. Checklist ticks stay in your own browser.</p>
+
+    <h2>What it is not</h2>
+    <p>It is not a lawyer, and rules differ by state and country. Where a point depends on local law, the reading says so. For anything large, such as a home purchase, a business deal or a dispute, talk to a lawyer.</p>
+
+    <h2>How it is built</h2>
+    <ul>
+      <li>A Cloudflare Worker serves the page and talks to Claude Opus 5.5.</li>
+      <li>The reading comes back in a fixed shape (structured output), so the page can lay it out and check every quote.</li>
+      <li>A daily allowance per visitor keeps the cost of the public site in check.</li>
+      <li>The <a href="https://github.com/pingywon/fine-print">source code</a> is public.</li>
+    </ul>
+  </main>
+</div>
+<footer class="site">
+  <div class="wrap">
+    <p>Not legal advice. Fine Print v{{VERSION}}</p>
+    <nav aria-label="Footer"><a href="./">Read a document</a><a href="https://github.com/pingywon/fine-print">Source</a></nav>
+  </div>
+</footer>
+</body>
+</html>

@@ -7,13 +7,14 @@
   "license": "MIT",
   "scripts": {
     "build": "node scripts/build.mjs",
-    "test": "node --test test/",
-    "e2e": "node test/e2e/phone.mjs",
+    "test": "node --test test/*.test.js",
+    "e2e": "node e2e/phone.mjs",
     "samples": "node scripts/make-samples.mjs",
-    "deploy": "node scripts/build.mjs && node --test test/ && wrangler deploy"
+    "deploy": "node scripts/build.mjs && node --test test/*.test.js && wrangler deploy"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.133.0",
+    "pdfjs-dist": "^6.4.299",
     "zod": "^4.6.7"
   },
   "devDependencies": {

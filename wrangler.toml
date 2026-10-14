@@ -1,0 +1,16 @@
+name = "fine-print"
+main = "src/worker.js"
+compatibility_date = "2026-09-01"
+workers_dev = true
+routes = [{ pattern = "fineprint.meetdominic.me", custom_domain = true }]
+
+[assets]
+directory = "./dist"
+binding = "ASSETS"
+
+[vars]
+LIVE_READING = "on"
+READS_PER_VISITOR = "3"
+READS_PER_DAY = "60"
+
+# Secrets (wrangler secret put): ANTHROPIC_API_KEY, ANTHROPIC_WORKSPACE_ID, IP_SALT
