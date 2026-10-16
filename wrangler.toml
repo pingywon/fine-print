@@ -13,7 +13,7 @@ binding = "FP_KV"
 id = "96f753860dac4c6599d93e76274c2511"
 
 [vars]
-LIVE_READING = "off"
+LIVE_READING = "on"
 READS_PER_VISITOR = "3"
 READS_PER_DAY = "60"
 
