@@ -5,181 +5,143 @@
   "reading": {
     "readable": true,
     "kind_of_document": "Job offer",
-    "title": "Offer letter for Senior Operations Analyst at Northfield Analytics",
+    "title": "Northfield Analytics Analyst Offer",
     "parties": [
       {
         "role": "Employer",
         "name": "Northfield Analytics, Inc."
       },
       {
-        "role": "You",
+        "role": "Employee",
         "name": "Sam Okafor"
       }
     ],
-    "summary": "This is a job offer from Northfield Analytics, Inc. to Sam Okafor for a hybrid Senior Operations Analyst role. It pays $96,000.00 a year, with a 10% target bonus, a $10,000.00 signing bonus, and 4,000 stock options. The biggest issue is the attached Covenant Agreement. It bars you from working for any competitor anywhere in the United States for 18 months after you leave, and it claims everything you create while employed, even on your own time. The offer expires today, October 14, 2026, at 5:00 p.m. Eastern Time.",
+    "bottom_line": "Decent pay, but the restrictions are broad and favor the company.",
+    "summary": "This offers you $96,000 a year plus bonus, signing bonus, and stock options. A nationwide noncompete, a strict bonus repayment rule, and a sweeping invention clause come with it.",
     "key_terms": [
       {
         "label": "Base salary",
-        "value": "$96,000.00 a year",
-        "quote": "Your starting base salary will be $96,000.00 per year"
+        "value": "$96,000.00 per year",
+        "quote": "Your starting base salary will be $96,000.00 per year, paid in accordance with the Company's regular payroll schedule"
       },
       {
-        "label": "Target bonus",
-        "value": "10% of base, at the Company's discretion",
-        "quote": "an annual performance bonus with a target of ten percent (10%) of your base salary"
+        "label": "Bonus target",
+        "value": "10% of base salary",
+        "quote": "You will be eligible for an annual performance bonus with a target of ten percent (10%) of your base salary."
       },
       {
         "label": "Signing bonus",
-        "value": "$10,000.00, repay if you leave within 24 months",
+        "value": "$10,000.00, first paycheck",
         "quote": "You will receive a one-time signing bonus of $10,000.00, less applicable withholdings, payable with your first regular paycheck."
       },
       {
         "label": "Stock options",
-        "value": "4,000 shares, 4-year vesting, 1-year cliff",
-        "quote": "you will be granted an option to purchase 4,000 shares of the Company's common stock"
+        "value": "4,000 shares, 4-year vest",
+        "quote": "you will be granted an option to purchase 4,000 shares of the Company's common stock. The option will vest over four (4) years"
       },
       {
-        "label": "In-office days",
-        "value": "At least 3 days a week",
+        "label": "Office days",
+        "value": "At least 3 per week",
         "quote": "You will be expected to work from the Company's Wilmington office at least three (3) days per week."
       },
       {
-        "label": "Start date",
-        "value": "November 16, 2026",
-        "quote": "Your anticipated start date is November 16, 2026."
-      },
-      {
-        "label": "Non-compete",
-        "value": "18 months, all of the US",
-        "quote": "for eighteen (18) months after it ends for any reason, you will not, anywhere in the United States"
-      },
-      {
-        "label": "Non-solicit",
-        "value": "24 months after you leave",
-        "quote": "During your employment and for twenty-four (24) months after it ends, you will not solicit or accept business"
+        "label": "Health benefits start",
+        "value": "Month after 60 days",
+        "quote": "eligible to participate in the Company's medical, dental, and vision plans beginning on the first day of the month following sixty (60) days of employment"
       }
     ],
-    "push_back": [
+    "red_flags": [
       {
-        "title": "Nationwide non-compete on any work",
-        "why": "A non-compete is a promise not to work for competitors after you leave. This one covers the whole country, lasts 18 months, applies even if you are fired, and bans services of any kind, not only similar roles.",
-        "ask": "Can you limit the non-compete to roles like mine, at direct competitors, in a smaller area, for 6 months, and drop it if I am let go without cause?",
-        "quote": "for eighteen (18) months after it ends for any reason, you will not, anywhere in the United States, perform services of any kind for any business that competes with the Company"
-      },
-      {
-        "title": "Full bonus payback even if fired",
-        "why": "You owe back the whole $10,000.00 gross, which is more than you received after taxes, even if the Company lets you go. There is no reduction for time served.",
-        "ask": "Can repayment apply only if I quit or am fired for cause, and shrink month by month over 12 months?",
+        "title": "Bonus repaid even if fired",
+        "why": "You owe the full $10,000 back even if they let you go.",
+        "ask": "Repay only if you quit, prorated by months worked.",
         "quote": "If your employment ends for any reason, whether voluntarily or involuntarily, within twenty-four (24) months of your start date, you agree to repay the full gross amount of the signing bonus"
       },
       {
-        "title": "Company owns your side projects",
-        "why": "The Company claims anything you create while employed, even on your own time, with your own equipment, and unrelated to its business.",
-        "ask": "Can you limit the assignment to work related to the Company's business or made with its resources, and let me list prior inventions I keep?",
-        "quote": "whether or not during working hours, whether or not using Company equipment or information, and whether or not related to the Company's business"
+        "title": "Nationwide 18-month noncompete",
+        "why": "Bars any work at any competitor anywhere in the US, even if fired.",
+        "ask": "Limit to similar roles, named competitors, shorter term, and voluntary exits.",
+        "quote": "for eighteen (18) months after it ends for any reason, you will not, anywhere in the United States, perform services of any kind for any business that competes with the Company"
       },
       {
-        "title": "Short window to buy vested options",
-        "why": "You get only 30 days after leaving to pay to buy your vested shares, or you lose them. That can mean a large cash outlay on short notice.",
-        "ask": "Can the exercise window be extended to at least 90 days, or longer if I am let go without cause?",
-        "quote": "Any vested options must be exercised within thirty (30) days after your employment ends or they will be forfeited."
+        "title": "Invention grab covers everything",
+        "why": "Your personal projects on your own time could belong to them.",
+        "ask": "Exclude off-hours work unrelated to the business, plus your prior inventions.",
+        "quote": "whether or not during working hours, whether or not using Company equipment or information, and whether or not related to the Company's business."
       },
       {
-        "title": "One-sided legal fees",
-        "why": "You pay the Company's lawyers if it enforces the Covenant Agreement, but the Company has no matching duty. The restrictions can also run longer than stated.",
-        "ask": "Can the fee clause apply to whichever side wins, and can you remove the automatic extension of the restricted periods?",
+        "title": "One-way legal fees",
+        "why": "You pay their lawyers if you breach, they never pay yours.",
+        "ask": "Make fee-shifting mutual, or have each side pay its own.",
         "quote": "the restricted periods will be extended by the length of the breach, and you will pay the Company's attorney's fees and costs of enforcement."
+      },
+      {
+        "title": "Broad 24-month non-solicit",
+        "why": "Blocks even accepting clients who come to you, including prospects.",
+        "ask": "Cover only active customers you worked with, and drop accepting business.",
+        "quote": "you will not solicit or accept business from any customer or prospective customer of the Company, and you will not solicit or hire any Company employee or contractor."
       }
     ],
     "good_to_know": [
       {
-        "title": "Arbitration and no class actions",
-        "why": "Arbitration means a private arbitrator decides disputes instead of a court. You also give up joining group lawsuits.",
+        "title": "Arbitration, no class actions",
+        "why": "You give up court and group lawsuits for any job dispute.",
         "quote": "will be resolved exclusively by final and binding arbitration in Wilmington, Delaware, on an individual basis. You waive any right to bring or participate in a class or collective action."
       },
       {
-        "title": "Bonus requires being on payroll",
-        "why": "If you leave or are let go before bonuses are paid, you get nothing for the prior year, even if you earned it.",
+        "title": "Short option exercise window",
+        "why": "You must buy vested shares within 30 days of leaving or lose them.",
+        "quote": "Any vested options must be exercised within thirty (30) days after your employment ends or they will be forfeited."
+      },
+      {
+        "title": "Bonus needs you still employed",
+        "why": "Leave before payout day and you get nothing for that year.",
         "quote": "You must be employed by the Company on the date bonuses are paid to receive any bonus for the prior year."
       },
       {
-        "title": "No payout for unused time off",
-        "why": "Flexible PTO has no balance, so nothing is paid out when you leave.",
-        "quote": "Because time off under this policy does not accrue, no payment for unused time off will be made at the end of your employment."
-      },
-      {
-        "title": "Company can change pay and role",
-        "why": "Your title, duties, and pay can be changed later at the Company's discretion. The in-office days and office location can change too.",
-        "quote": "The Company may adjust your title, duties, reporting line, and compensation from time to time in its discretion."
-      },
-      {
-        "title": "Customers and coworkers are off limits",
-        "why": "For 24 months you cannot take business from customers even if they come to you, and you cannot hire Company staff.",
-        "quote": "you will not solicit or accept business from any customer or prospective customer of the Company, and you will not solicit or hire any Company employee or contractor."
-      },
-      {
         "title": "No side work without approval",
-        "why": "Any freelancing, consulting, or side business needs written sign-off first.",
-        "quote": "you may not engage in any other employment, consulting, or business activity without the prior written approval of the Company."
+        "why": "Any freelance or side business needs written permission first.",
+        "quote": "While employed, you may not engage in any other employment, consulting, or business activity without the prior written approval of the Company."
       }
     ],
     "dates": [
       {
         "label": "Offer deadline",
         "date": "2026-10-14",
-        "when": "Today, by 5:00 p.m. Eastern Time",
+        "when": "5:00 p.m. Eastern, already passed",
         "quote": "This offer will expire if not signed and returned by 5:00 p.m. Eastern Time on October 14, 2026."
       },
       {
         "label": "Start date",
         "date": "2026-11-16",
-        "when": "November 16, 2026, if not changed",
+        "when": "Anticipated first day",
         "quote": "Your anticipated start date is November 16, 2026."
       },
       {
-        "label": "Health benefits begin",
+        "label": "First option vest",
         "date": null,
-        "when": "First day of the month after 60 days of work",
-        "quote": "beginning on the first day of the month following sixty (60) days of employment"
-      },
-      {
-        "label": "401(k) eligibility",
-        "date": null,
-        "when": "After 6 months of work",
-        "quote": "in the Company's 401(k) plan after six (6) months of employment"
-      },
-      {
-        "label": "Signing bonus payback",
-        "date": null,
-        "when": "Within 30 days of your last day, if you leave within 24 months of starting",
-        "quote": "you agree to repay the full gross amount of the signing bonus within thirty (30) days of your last day of employment"
-      },
-      {
-        "label": "Option exercise deadline",
-        "date": null,
-        "when": "Within 30 days after your job ends",
-        "quote": "Any vested options must be exercised within thirty (30) days after your employment ends or they will be forfeited."
+        "when": "First anniversary of your start",
+        "quote": "with twenty-five percent (25%) vesting on the first anniversary of your start date"
       }
     ],
     "before_you_sign": [
-      "Ask for a short extension, since the offer expires today at 5:00 p.m. Eastern Time.",
-      "Get the full Covenant Agreement and read it, because this letter only summarizes it.",
-      "Check the rules where you live on non-competes and invention assignments.",
-      "Write down any inventions or side projects you already own and ask to attach the list.",
-      "Get any agreed changes in writing in a revised letter before you sign.",
-      "Consider a short review by an employment lawyer given the non-compete."
+      "Confirm the offer is still open",
+      "Read the full Covenant Agreement first",
+      "Check local rules on noncompetes",
+      "List prior inventions you want excluded",
+      "Get any agreed changes in writing"
     ],
     "email": {
-      "subject": "Questions on Senior Operations Analyst offer",
-      "body": "Hi Renee,\n\nThank you for the offer. I am excited about the role and have a few questions before I sign. Given that the offer expires today, could you extend the deadline by a few days so we can sort these out?\n\n1. Could the non-compete be limited to roles like mine at direct competitors, a smaller area, and 6 months, and not apply if I am let go without cause?\n2. Could the signing bonus repayment apply only if I resign or am fired for cause, and reduce month by month?\n3. Could the invention assignment cover only work related to the Company's business or made with Company resources, with a list of my prior inventions excluded?\n4. Could the window to exercise vested options be extended to at least 90 days?\n5. Could the attorney's fees clause apply to whichever side wins, and could the automatic extension of the restricted periods be removed?\n6. Could you send me the full Covenant Agreement to review?\n\nThank you for your help.\n\n[Your name]"
+      "subject": "Questions on my offer letter",
+      "body": "Hi Renee,\n\nThank you for the offer for the Senior Operations Analyst role. Before signing, I have a few questions.\n\n1. The deadline was October 14. Can you confirm the offer is still open and extend it?\n2. Can the signing bonus repayment apply only if I resign, and be prorated by months worked?\n3. Can the noncompete be narrowed in scope, area, and length, and not apply if I am let go?\n4. Can the invention assignment exclude off-hours work unrelated to the business and my prior inventions?\n5. Can the attorney's fees term be mutual, and the non-solicit cover only customers I worked with?\n6. Can I see the full Covenant Agreement before signing?\n\nThank you,\n[Your name]"
     }
   },
   "meta": {
     "model": "claude-opus-5-5",
-    "prompt": "2026-10-14.2",
-    "output_tokens": 4965,
+    "prompt": "2026-10-16.1",
+    "output_tokens": 4070,
     "engine": "claude-code",
-    "generated_at": "2026-10-14T16:41:20.861Z",
-    "seconds": 49
+    "generated_at": "2026-10-16T18:23:30.131Z",
+    "seconds": 48
   }
 }

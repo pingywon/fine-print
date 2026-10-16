@@ -58,7 +58,7 @@ test("a reading comes back with quotes checked", async () => {
   assert.equal(body.meta.version, VERSION);
   assert.equal(body.stats.total, 4);
   assert.equal(body.stats.found, 3);
-  assert.ok(body.reading.push_back[0].located);
+  assert.ok(body.reading.red_flags[0].located);
   assert.equal(body.reading.good_to_know[0].located, null);
 });
 

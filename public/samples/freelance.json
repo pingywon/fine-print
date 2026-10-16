@@ -4,39 +4,35 @@
   "text": "INDEPENDENT CONTRACTOR SERVICES AGREEMENT\n\nThis Independent Contractor Services Agreement (the \"Agreement\") is made effective as of October 12, 2026 (the \"Effective Date\") between Harbor & Pine Home Goods LLC, a Pennsylvania limited liability company (\"Client\"), and Alex Moreno, an individual doing business as Moreno Studio (\"Contractor\").\n\n1. SERVICES. Contractor shall redesign Client's e-commerce website, including a new visual design system, homepage, collection page, product page, and cart page templates, and shall deliver all source design files and front-end code (the \"Deliverables\"), as further described in the Statement of Work attached as Exhibit A.\n\n2. SCHEDULE. Contractor shall deliver final Deliverables no later than six (6) weeks after the Effective Date. Time is of the essence. If Contractor fails to deliver any Deliverable by its due date, Client may deduct $100.00 per calendar day of delay from the Fee, regardless of the cause of the delay.\n\n3. REVISIONS. Contractor shall make all revisions requested by Client until Client is fully satisfied with the Deliverables. There is no limit on the number of revision rounds included in the Fee.\n\n4. ACCEPTANCE. Client shall review each Deliverable and may accept or reject it in Client's sole discretion. A Deliverable is accepted only when Client gives written notice of acceptance. Client has no obligation to accept any Deliverable within a specific time.\n\n5. FEE. Client shall pay Contractor a fixed fee of $8,500.00 (the \"Fee\") for the Services. The Fee includes all revisions, meetings, travel, software, stock assets, fonts, and other expenses. Contractor shall not be reimbursed for any expenses.\n\n6. PAYMENT TERMS. Contractor shall invoice Client upon Client's written acceptance of all final Deliverables. Client shall pay each undisputed invoice within sixty (60) days of receipt. No deposit or partial payment shall be due before final acceptance. Client may withhold payment of any amount it disputes in good faith.\n\n7. OWNERSHIP OF WORK. All Deliverables, and all drafts, concepts, sketches, and other work product created by Contractor in connection with this Agreement, whether or not used by Client, are \"works made for hire\" and shall be the sole property of Client from the moment of creation. To the extent any such work is not a work made for hire, Contractor hereby assigns to Client all right, title, and interest in it. Contractor also grants Client a perpetual, irrevocable, royalty-free license to use any tools, code libraries, templates, or materials that Contractor owned before the Effective Date and incorporated into the Deliverables.\n\n8. PORTFOLIO. Contractor shall not display, publish, or reference the Deliverables, Client's name, or Client's logo in any portfolio, website, social media post, or case study without Client's prior written consent.\n\n9. TERMINATION. Client may terminate this Agreement at any time, for any reason, upon written notice to Contractor. Upon termination, Client shall pay Contractor only for Deliverables that Client has accepted in writing before the date of termination, prorated against the Fee, and Client shall own all work product created through the date of termination. Contractor may terminate this Agreement only if Client fails to pay an undisputed invoice within thirty (30) days after written notice of non-payment.\n\n10. NON-COMPETITION. During the term of this Agreement and for twelve (12) months afterward, Contractor shall not provide design or development services to any company that sells home goods, furniture, or home decor products online.\n\n11. NON-SOLICITATION. During the term of this Agreement and for twelve (12) months afterward, Contractor shall not solicit or accept work from any of Client's vendors, suppliers, or wholesale customers.\n\n12. INDEMNIFICATION. Contractor shall defend, indemnify, and hold harmless Client and its members, managers, and employees from and against any and all claims, losses, damages, and expenses, including attorney's fees, arising out of or relating to the Services or the Deliverables.\n\n13. LIMITATION OF CLIENT LIABILITY. In no event shall Client's total liability under this Agreement exceed the amount of the Fee actually paid to Contractor.\n\n14. INDEPENDENT CONTRACTOR. Contractor is an independent contractor and not an employee of Client. Contractor is responsible for all taxes, insurance, and benefits. Contractor shall carry general liability insurance of at least $1,000,000 per occurrence and shall name Client as an additional insured.\n\n15. CONFIDENTIALITY. Contractor shall keep confidential all non-public information about Client's business, customers, sales, and plans, during the term of this Agreement and for five (5) years afterward.\n\n16. GOVERNING LAW AND VENUE. This Agreement is governed by the laws of the Commonwealth of Pennsylvania. Any dispute shall be brought exclusively in the courts located in Berks County, Pennsylvania.\n\n17. ENTIRE AGREEMENT. This Agreement and Exhibit A are the entire agreement between the parties and supersede all prior proposals, quotes, and communications, including any proposal or estimate submitted by Contractor.\n\nCLIENT: Harbor & Pine Home Goods LLC\nBy: Morgan Hale, Managing Member\n\nCONTRACTOR: Alex Moreno, d/b/a Moreno Studio",
   "reading": {
     "readable": true,
-    "kind_of_document": "Independent contractor agreement",
-    "title": "Website redesign contract between Moreno Studio and Harbor & Pine Home Goods",
+    "kind_of_document": "Freelance design contract",
+    "title": "Harbor & Pine website redesign",
     "parties": [
       {
         "role": "Client",
         "name": "Harbor & Pine Home Goods LLC"
       },
       {
-        "role": "You (Contractor)",
+        "role": "Contractor",
         "name": "Alex Moreno, d/b/a Moreno Studio"
       }
     ],
-    "summary": "This is a fixed-price contract for you to redesign Harbor & Pine's online store for $8,500.00, with all expenses on you. Payment comes only after the client accepts everything in writing, the client can take as long as it wants to accept, and then it has 60 days to pay. The client can also ask for unlimited revisions, cancel at any time without paying for unaccepted work, and bar you from all online home goods clients for 12 months. The effective date of October 12, 2026 has already passed, so the 6-week deadline is already running.",
+    "bottom_line": "Heavily client-sided. You could work unpaid with no end date.",
+    "summary": "Alex Moreno redesigns Harbor & Pine's online store for a fixed $8,500, due in 6 weeks. You get paid only after the client approves everything, and the client has no deadline to approve.",
     "key_terms": [
       {
-        "label": "Fee",
-        "value": "$8,500.00 fixed",
+        "label": "Fixed fee",
+        "value": "$8,500.00, expenses included",
         "quote": "Client shall pay Contractor a fixed fee of $8,500.00 (the \"Fee\") for the Services."
       },
       {
-        "label": "Expenses",
-        "value": "None reimbursed",
-        "quote": "Contractor shall not be reimbursed for any expenses."
-      },
-      {
-        "label": "Deadline",
-        "value": "6 weeks from October 12, 2026",
+        "label": "Delivery deadline",
+        "value": "6 weeks after Effective Date",
         "quote": "Contractor shall deliver final Deliverables no later than six (6) weeks after the Effective Date."
       },
       {
         "label": "Late deduction",
-        "value": "$100.00 a day",
-        "quote": "Client may deduct $100.00 per calendar day of delay from the Fee, regardless of the cause of the delay."
+        "value": "$100.00 per calendar day",
+        "quote": "If Contractor fails to deliver any Deliverable by its due date, Client may deduct $100.00 per calendar day of delay from the Fee, regardless of the cause of the delay."
       },
       {
         "label": "Payment timing",
@@ -44,130 +40,120 @@
         "quote": "Client shall pay each undisputed invoice within sixty (60) days of receipt."
       },
       {
-        "label": "Non-compete",
-        "value": "12 months after the contract ends",
+        "label": "Non-compete length",
+        "value": "12 months after term",
         "quote": "During the term of this Agreement and for twelve (12) months afterward, Contractor shall not provide design or development services"
       },
       {
-        "label": "Insurance you must carry",
+        "label": "Insurance required",
         "value": "$1,000,000 per occurrence",
         "quote": "Contractor shall carry general liability insurance of at least $1,000,000 per occurrence and shall name Client as an additional insured."
-      },
-      {
-        "label": "Confidentiality",
-        "value": "5 years after the contract ends",
-        "quote": "during the term of this Agreement and for five (5) years afterward."
       }
     ],
-    "push_back": [
+    "red_flags": [
       {
-        "title": "No limit on acceptance or revisions",
-        "why": "The client decides alone whether your work is acceptable, has no deadline to decide, and can ask for unlimited revisions. Since you only get paid after acceptance, the client can delay your pay indefinitely.",
-        "ask": "Can we cap revisions at 2 rounds per deliverable, and treat a deliverable as accepted if you don't reject it in writing with reasons within 5 business days?",
-        "quote": "Client has no obligation to accept any Deliverable within a specific time."
+        "title": "Payment hinges on approval",
+        "why": "Client can reject forever, so you may never get paid.",
+        "ask": "Add clear acceptance criteria and auto-acceptance after 10 business days.",
+        "quote": "Client shall review each Deliverable and may accept or reject it in Client's sole discretion. A Deliverable is accepted only when Client gives written notice of acceptance."
       },
       {
-        "title": "No deposit and slow payment",
-        "why": "You carry all the work and costs up front and may not see money until well after 60 days past final acceptance. Common practice for design work is a deposit plus milestone payments.",
-        "ask": "Can we do 50% up front, 25% on design approval, and 25% on final delivery, each due within 15 days of invoice?",
-        "quote": "No deposit or partial payment shall be due before final acceptance."
+        "title": "Unlimited free revisions",
+        "why": "A fixed fee with endless rounds means unlimited unpaid work.",
+        "ask": "Cap revisions at 2 rounds, then bill extra at an hourly rate.",
+        "quote": "Contractor shall make all revisions requested by Client until Client is fully satisfied with the Deliverables. There is no limit on the number of revision rounds included in the Fee."
       },
       {
-        "title": "Cancellation leaves you unpaid",
-        "why": "The client can cancel for any reason, pay only for work it has formally accepted, and still keep all your unfinished work. You can only leave if they fail to pay, and they owe nothing until acceptance anyway.",
-        "ask": "If you terminate, can you pay for all work done up to that date, with ownership of that work passing only after payment?",
-        "quote": "Upon termination, Client shall pay Contractor only for Deliverables that Client has accepted in writing before the date of termination"
+        "title": "Termination pays almost nothing",
+        "why": "Client can cancel midway, keep all drafts, and pay nothing.",
+        "ask": "Pay for all work completed through termination, not just accepted items.",
+        "quote": "Upon termination, Client shall pay Contractor only for Deliverables that Client has accepted in writing before the date of termination, prorated against the Fee"
       },
       {
         "title": "Broad 12-month non-compete",
-        "why": "This bars you from working for any online home goods, furniture, or decor seller for a year, which could cut off a large part of your market for an $8,500 job. Whether this is enforceable depends on where you live, so check the rules there.",
-        "ask": "Can we remove the non-compete, or limit it to a short list of named direct competitors for 3 months? Can the non-solicitation clause cover only soliciting, not accepting, work?",
+        "why": "Bars a whole online niche for 1 year. Check local rules.",
+        "ask": "Drop it, or limit it to named direct competitors.",
         "quote": "Contractor shall not provide design or development services to any company that sells home goods, furniture, or home decor products online."
       },
       {
-        "title": "Late penalty even when it isn't your fault",
-        "why": "You lose $100 a day even if the delay comes from the client's slow feedback, missing content, or endless revisions. Over 85 days it would wipe out the whole fee.",
-        "ask": "Can the deadline move day-for-day with any delay caused by you, and can the late deduction be capped at 10% of the fee?",
-        "quote": "regardless of the cause of the delay"
+        "title": "One-sided unlimited indemnity",
+        "why": "You cover all claims, even Client's fault, while Client's liability is capped.",
+        "ask": "Limit indemnity to your own negligence, capped at the fee paid.",
+        "quote": "Contractor shall defend, indemnify, and hold harmless Client and its members, managers, and employees from and against any and all claims, losses, damages, and expenses, including attorney's fees"
       }
     ],
     "good_to_know": [
       {
-        "title": "You cover all claims, with no limit",
-        "why": "Indemnify means you pay the client's costs and legal fees for any claim tied to your work, even claims you didn't cause. There is no cap, while the client's own liability is capped.",
-        "quote": "Contractor shall defend, indemnify, and hold harmless Client and its members, managers, and employees from and against any and all claims, losses, damages, and expenses, including attorney's fees"
+        "title": "No deposit",
+        "why": "You cover all 6 weeks of work before any money arrives.",
+        "quote": "No deposit or partial payment shall be due before final acceptance."
       },
       {
-        "title": "Client's liability is capped at what it paid you",
-        "why": "If the client never pays, its liability cap could be zero. Your liability has no cap.",
-        "quote": "In no event shall Client's total liability under this Agreement exceed the amount of the Fee actually paid to Contractor."
+        "title": "Expenses come from your fee",
+        "why": "Fonts, stock images, and software licenses come out of your $8,500.",
+        "quote": "The Fee includes all revisions, meetings, travel, software, stock assets, fonts, and other expenses. Contractor shall not be reimbursed for any expenses."
       },
       {
-        "title": "The client owns even unused drafts and gets your tools",
-        "why": "Rejected concepts become theirs from the moment you make them. Any code, templates, or tools you already owned get a permanent free license to the client if you use them.",
+        "title": "Your existing tools licensed forever",
+        "why": "Client can reuse your own code libraries and templates forever, for free.",
         "quote": "Contractor also grants Client a perpetual, irrevocable, royalty-free license to use any tools, code libraries, templates, or materials that Contractor owned before the Effective Date"
       },
       {
-        "title": "No portfolio use without permission",
-        "why": "You can't show this work or even name the client without written consent. Ask for portfolio rights after launch if this matters to you.",
+        "title": "No portfolio use",
+        "why": "You cannot show this work publicly unless the client agrees in writing.",
         "quote": "Contractor shall not display, publish, or reference the Deliverables, Client's name, or Client's logo in any portfolio, website, social media post, or case study without Client's prior written consent."
-      },
-      {
-        "title": "Your proposal is wiped out",
-        "why": "Anything you promised or limited in your quote, like revision rounds or scope, no longer counts unless it is written into this contract or Exhibit A.",
-        "quote": "supersede all prior proposals, quotes, and communications, including any proposal or estimate submitted by Contractor."
-      },
-      {
-        "title": "Disputes go to court in Berks County, Pennsylvania",
-        "why": "If you live far away, any lawsuit would mean traveling there.",
-        "quote": "Any dispute shall be brought exclusively in the courts located in Berks County, Pennsylvania."
       }
     ],
     "dates": [
       {
-        "label": "Effective date",
+        "label": "Effective Date",
         "date": "2026-10-12",
-        "when": "Already passed, so the schedule is already running",
-        "quote": "is made effective as of October 12, 2026 (the \"Effective Date\")"
+        "when": "Already passed, deadline clock is running",
+        "quote": "This Independent Contractor Services Agreement (the \"Agreement\") is made effective as of October 12, 2026 (the \"Effective Date\")"
       },
       {
-        "label": "Final deliverables due",
+        "label": "Final delivery due",
         "date": "2026-11-23",
-        "when": "6 weeks after October 12, 2026. $100 a day comes off your fee after this.",
+        "when": "6 weeks after October 12, 2026",
         "quote": "Contractor shall deliver final Deliverables no later than six (6) weeks after the Effective Date."
       },
       {
-        "label": "Your right to quit for non-payment",
+        "label": "Invoice payment due",
         "date": null,
-        "when": "30 days after you send written notice that an undisputed invoice is unpaid",
-        "quote": "Contractor may terminate this Agreement only if Client fails to pay an undisputed invoice within thirty (30) days after written notice of non-payment."
+        "when": "60 days after client receives invoice",
+        "quote": "Contractor shall invoice Client upon Client's written acceptance of all final Deliverables. Client shall pay each undisputed invoice within sixty (60) days of receipt."
       },
       {
-        "label": "Non-compete and non-solicitation end",
+        "label": "Non-solicit ends",
         "date": null,
-        "when": "12 months after the contract ends",
+        "when": "12 months after the agreement ends",
         "quote": "During the term of this Agreement and for twelve (12) months afterward, Contractor shall not solicit or accept work from any of Client's vendors, suppliers, or wholesale customers."
+      },
+      {
+        "label": "Confidentiality ends",
+        "date": null,
+        "when": "5 years after the agreement ends",
+        "quote": "Contractor shall keep confidential all non-public information about Client's business, customers, sales, and plans, during the term of this Agreement and for five (5) years afterward."
       }
     ],
     "before_you_sign": [
-      "Ask for Exhibit A, the Statement of Work, and read it, because it was not included.",
-      "Ask to change the effective date to the day you sign so the 6-week clock doesn't start early.",
-      "Get a quote for $1,000,000 general liability insurance and add that cost to your price.",
-      "List any code, templates, or fonts you plan to reuse, and decide if you're fine licensing them forever.",
-      "Check the rules where you live on whether a 12-month non-compete like this one can be enforced.",
-      "Put any promises from your original proposal into the contract in writing."
+      "Get Exhibit A and check the scope.",
+      "Ask to move the start date forward.",
+      "Request a 30 to 50 percent deposit.",
+      "Price $1,000,000 liability insurance first.",
+      "Add your proposal terms into this contract."
     ],
     "email": {
       "subject": "Questions on the website redesign agreement",
-      "body": "Hi Morgan,\n\nThanks for sending the contractor agreement for the Harbor & Pine redesign. Before I sign, I'd like to discuss a few terms:\n\n1. Acceptance and revisions: Can we limit revisions to 2 rounds per deliverable and treat work as accepted if it isn't rejected in writing within 5 business days?\n2. Payment: Can we do 50% up front, 25% at design approval, and 25% at final delivery, each due within 15 days of invoice?\n3. Termination: If the agreement ends early, can I be paid for all work done to that date, with ownership passing on payment?\n4. Non-compete: Can we remove it or limit it to a few named direct competitors for 3 months? Can the non-solicitation cover soliciting only, not accepting work?\n5. Late deduction: Can the deadline move with any delays on your side, and can the deduction be capped at 10% of the fee?\n\nI'd also like a copy of Exhibit A, and to set the effective date to the signing date.\n\nThank you,\n[Your name]"
+      "body": "Hi Morgan,\n\nThanks for sending the agreement. Before I sign, I'd like to work through a few points.\n\n1. Can we add clear acceptance criteria, with work counted as accepted 10 business days after delivery unless you send written feedback?\n2. Can revisions be capped at 2 rounds, with extra rounds billed hourly?\n3. Would you agree to a 30 to 50 percent deposit, with the rest due within 30 days?\n4. If the project ends early, can I be paid for all work done up to that date?\n5. Can we remove the non-compete, or limit it to a few named direct competitors?\n6. Can the indemnity cover only claims caused by my own negligence, capped at the fee?\n7. The Effective Date is October 12. Can we move it to the signing date so the 6-week deadline starts then, and drop the late deduction for delays I don't cause?\n8. Could you send Exhibit A so I can review the full scope?\n\nThanks,\n[Your name]"
     }
   },
   "meta": {
     "model": "claude-opus-5-5",
-    "prompt": "2026-10-14.2",
-    "output_tokens": 5253,
+    "prompt": "2026-10-16.1",
+    "output_tokens": 6016,
     "engine": "claude-code",
-    "generated_at": "2026-10-14T16:41:23.553Z",
-    "seconds": 52
+    "generated_at": "2026-10-16T18:23:39.802Z",
+    "seconds": 58
   }
 }

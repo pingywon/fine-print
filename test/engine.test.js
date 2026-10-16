@@ -6,7 +6,7 @@ import { styleProblems } from "../src/reading/style.js";
 
 const reading = {
   readable: true, kind_of_document: "Lease", title: "T", parties: [], summary: "S",
-  key_terms: [], push_back: Array.from({ length: 9 }, (_, i) => ({ title: `p${i}`, why: "w", ask: "a", quote: "q" })),
+  key_terms: [], red_flags: Array.from({ length: 9 }, (_, i) => ({ title: `p${i}`, why: "w", ask: "a", quote: "q" })),
   good_to_know: [], dates: [], before_you_sign: [], email: { subject: "s", body: "b" },
 };
 
@@ -24,7 +24,7 @@ test("sends the document with the house settings and trims long lists", async ()
   assert.equal(client.calls[0].model, "claude-opus-5-5");
   assert.equal(client.calls[0].fallbacks, "default");
   assert.match(client.calls[0].messages[0].content, /<<<DOCUMENT\nthe text\nDOCUMENT>>>/);
-  assert.equal(out.reading.push_back.length, 5);
+  assert.equal(out.reading.red_flags.length, 5);
   assert.equal(out.meta.output_tokens, 20);
 });
 
@@ -52,5 +52,5 @@ test("house style catches AI tells", () => {
   const bad = { ...reading, summary: "It is important to note the fee — sadly; wow!" };
   const rules = styleProblems(bad).map((p) => p.rule);
   for (const r of ["em dash", "semicolon", "exclamation mark", "filler"]) assert.ok(rules.includes(r), r);
-  assert.deepEqual(styleProblems({ ...reading, push_back: [] }), []);
+  assert.deepEqual(styleProblems({ ...reading, red_flags: [] }), []);
 });

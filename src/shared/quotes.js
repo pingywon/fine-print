@@ -106,7 +106,7 @@ export function segment(text, ranges) {
 // Adds { located: {start,end,match} | null } to every quoted item, and returns the ranges to highlight.
 export function verifyReading(doc, reading) {
   const ranges = [];
-  const sections = ["key_terms", "push_back", "good_to_know", "dates"];
+  const sections = ["key_terms", "red_flags", "good_to_know", "dates"];
   const out = { ...reading };
   for (const key of sections) {
     out[key] = (reading[key] || []).map((item, i) => {

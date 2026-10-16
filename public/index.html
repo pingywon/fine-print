@@ -4,71 +4,69 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Fine Print</title>
-<meta name="description" content="Paste a lease, a job offer or any agreement. Get the plain version, what is unusual, and what to ask before you sign.">
+<meta name="description" content="Paste any contract. See the red flags.">
 <meta name="robots" content="noindex">
-<meta name="theme-color" content="#eef1f5" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#161b23" media="(prefers-color-scheme: dark)">
 <link rel="icon" href="favicon.svg?v={{VERSION}}" type="image/svg+xml">
 <link rel="preload" href="fonts/public-sans-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="kit.css?v={{VERSION}}">
 <link rel="stylesheet" href="styles.css?v={{VERSION}}">
 <script type="module" src="app.js?v={{VERSION}}"></script>
 </head>
 <body>
-<div class="wrap">
-  <header class="masthead">
-    <a class="wordmark" href="#" data-home><span>Fine</span> Print</a>
-    <nav aria-label="Site">
+<header class="topbar">
+  <div class="container">
+    <a class="brand" href="./" data-home><span class="brand-mark" data-icon="doc"></span>Fine Print</a>
+    <nav class="nav" aria-label="Site">
+      <a class="wide" href="#samples" data-samples>Samples</a>
       <a href="how.html">How it works</a>
+      <a class="wide" href="https://lab.meetdominic.me">Lab</a>
+      <button class="icon-btn" id="theme" type="button"></button>
     </nav>
-  </header>
+  </div>
+</header>
 
-  <main id="landing" class="landing">
+<main id="landing" class="container">
+  <section class="hero">
     <div>
-      <h1>Know what you're signing.</h1>
-      <p class="lede">Paste a lease, a job offer or any agreement. Get the plain version, what's unusual, and what to ask before you sign.</p>
-
-      <form class="paste" id="paste-form" novalidate>
-        <label class="field-label" for="doc-text">Your document</label>
-        <textarea id="doc-text" name="text" spellcheck="false" placeholder="Paste the full text here"></textarea>
-        <div class="paste-meta">
-          <span id="char-count">0 characters</span>
-          <span>Not saved by this site</span>
-        </div>
-        <div class="actions">
-          <button class="btn" type="submit" id="read-btn">Read it</button>
-          <label class="upload">Upload a PDF<input type="file" id="pdf-input" accept="application/pdf,.pdf,.txt,text/plain"></label>
+      <span class="eyebrow" data-icon="shield">Every quote checked</span>
+      <h1 class="display">Know what you sign.</h1>
+      <p class="sub">Paste any contract. See the red flags.</p>
+      <form class="card stack-4" id="paste-form" novalidate>
+        <label class="field"><span>Contract</span>
+          <textarea class="input" id="doc-text" spellcheck="false" placeholder="Paste text here"></textarea>
+        </label>
+        <div class="row">
+          <button class="btn" type="submit" id="read-btn" data-icon="search">Read it</button>
+          <label class="btn ghost upload" data-icon="upload">PDF<input type="file" id="pdf-input" accept="application/pdf,.pdf,.txt,text/plain"></label>
+          <span class="help" id="char-count">Never stored</span>
         </div>
         <p class="notice" id="form-notice" role="status" hidden></p>
       </form>
-
-      <section class="samples" aria-labelledby="samples-title">
-        <h2 id="samples-title">Or open a sample</h2>
-        <ul class="sample-list" id="sample-list"></ul>
-      </section>
     </div>
+    <div id="preview" class="preview" aria-label="Example result"></div>
+  </section>
 
-    <figure class="specimen" aria-label="Example: one clause from a lease, explained">
-      <div class="sheet">
-        <p><b>2. TERM.</b> The term of this Lease begins on November 1, 2026 and ends at 11:59 p.m. on October 31, 2027 (the "Initial Term").</p>
-        <p><b>3. AUTOMATIC RENEWAL.</b> Unless Tenant delivers written notice of non-renewal to Landlord not less than ninety (90) days prior to the expiration of the Initial Term or any renewal term, <mark>this Lease shall automatically renew for an additional term of twelve (12) months</mark> on the same terms, except that Monthly Rent for any renewal term may be increased by up to eight percent (8%) at Landlord's sole discretion. <mark>Notice by email or text message shall not be effective.</mark></p>
-        <p><b>4. RENT.</b> Tenant shall pay monthly rent of $1,850.00 ("Monthly Rent"), due in advance on the first (1st) day of each month, without demand, deduction, or offset.</p>
-      </div>
-      <figcaption class="margin-note">Miss a mailed notice by August 2 and you are signed up for another full year, at up to 8% more rent.
-        <small>From the sample lease reading</small>
-      </figcaption>
-    </figure>
-  </main>
+  <section class="section" id="samples">
+    <div class="section-h"><h2>Try a sample</h2></div>
+    <div class="grid four" id="sample-list"></div>
+  </section>
 
-  <main id="reading-view" hidden></main>
-</div>
+  <section class="section">
+    <div class="section-h"><h2>How it works</h2></div>
+    <div class="steps">
+      <div class="step"><span class="ic" data-icon="doc"></span><b>Paste</b><small>Text or PDF</small></div>
+      <div class="step"><span class="ic" data-icon="sparkle"></span><b>Claude reads</b><small>About a minute</small></div>
+      <div class="step"><span class="ic" data-icon="shield"></span><b>Quotes checked</b><small>Against your text</small></div>
+    </div>
+  </section>
+</main>
 
-<footer class="site">
-  <div class="wrap">
-    <p>Not legal advice. Fine Print v{{VERSION}}</p>
-    <nav aria-label="Footer">
-      <a href="how.html">How it works</a>
-      <a href="https://github.com/pingywon/fine-print">Source</a>
-    </nav>
+<main id="reading-view" class="container view" hidden></main>
+
+<footer class="foot">
+  <div class="container">
+    <span>Not legal advice. Fine Print v{{VERSION}}</span>
+    <nav aria-label="Footer"><a href="how.html">How it works</a><a href="https://lab.meetdominic.me">Lab</a><a href="https://github.com/pingywon/fine-print">GitHub</a></nav>
   </div>
 </footer>
 </body>

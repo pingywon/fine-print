@@ -21,7 +21,7 @@ for (const sample of manifest) {
     const { stats } = verifyReading(source, reading);
     assert.equal(stats.found, stats.total, "every quote is found in the document");
     assert.deepEqual(styleProblems(reading), [], "house style");
-    assert.ok(reading.push_back.length >= 1, "the planted problems are caught");
+    assert.ok(reading.red_flags.length >= 1, "the planted problems are caught");
   });
 }
 
@@ -34,7 +34,7 @@ test("each sample catches its key planted problem", async () => {
   };
   for (const [id, patterns] of Object.entries(expect)) {
     const record = JSON.parse(await readFile(new URL(`../public/samples/${id}.json`, import.meta.url), "utf8"));
-    const titles = record.reading.push_back.map((p) => `${p.title} ${p.why}`).join(" | ");
+    const titles = record.reading.red_flags.map((p) => `${p.title} ${p.why}`).join(" | ");
     for (const p of patterns) assert.match(titles, p, `${id}: ${p}`);
   }
 });

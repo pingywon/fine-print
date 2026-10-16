@@ -58,13 +58,13 @@ test("segment covers the whole text and handles overlaps", () => {
 test("verifyReading counts found quotes and tags each item", () => {
   const reading = {
     key_terms: [{ label: "Late fee", value: "$75", quote: "initial late charge of $75.00" }],
-    push_back: [{ title: "Renewal", why: "", ask: "", quote: "shall automatically renew for an additional term" }],
+    red_flags: [{ title: "Renewal", why: "", ask: "", quote: "shall automatically renew for an additional term" }],
     good_to_know: [{ title: "Made up", why: "", quote: "Landlord pays for parking." }],
     dates: [],
   };
   const { reading: out, ranges, stats } = verifyReading(doc, reading);
   assert.deepEqual(stats, { total: 3, found: 2 });
   assert.equal(ranges.length, 2);
-  assert.equal(out.push_back[0].id, "push_back-0");
+  assert.equal(out.red_flags[0].id, "red_flags-0");
   assert.equal(out.good_to_know[0].located, null);
 });
