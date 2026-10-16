@@ -162,3 +162,5 @@ details.more[open] > summary::after { transform: rotate(-135deg); }
 .foot nav { display: flex; gap: var(--s-4); flex-wrap: wrap; }
 .eyebrow svg { width: 16px; height: 16px; flex: none; }
 .view > * + * { margin-top: var(--s-5); }
+.card-h h2 svg, .card-h h3 svg { width: 18px; height: 18px; flex: none; color: var(--accent-text); }
+.card-h h2, .card-h h3 { white-space: nowrap; }
