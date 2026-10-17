@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fine Print</title>
+<meta name="description" content="Paste any contract. See the red flags.">
+<meta name="robots" content="noindex">
+<link rel="icon" href="favicon.svg?v={{VERSION}}" type="image/svg+xml">
+<link rel="preload" href="fonts/public-sans-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="kit.css?v={{VERSION}}">
+<link rel="stylesheet" href="styles.css?v={{VERSION}}">
+<script type="module" src="app.js?v={{VERSION}}"></script>
+</head>
+<body>
+<header class="topbar">
+  <div class="container">
+    <a class="brand" href="./" data-home><span class="brand-mark" data-icon="doc"></span>Fine Print</a>
+    <nav class="nav" aria-label="Site">
+      <a class="wide" href="#samples" data-samples>Samples</a>
+      <a href="how.html">How it works</a>
+      <a class="wide" href="https://lab.meetdominic.me">Lab</a>
+      <button class="icon-btn" id="theme" type="button"></button>
+    </nav>
+  </div>
+</header>
+
+<main id="landing" class="container">
+  <section class="hero">
+    <div>
+      <span class="eyebrow" data-icon="shield">Every quote checked</span>
+      <h1 class="display">Know what you sign.</h1>
+      <p class="sub">Paste any contract. See the red flags.</p>
+      <ol class="howto" aria-label="How it works"><li>Paste a contract</li><li>Claude reads it</li><li>Quotes checked</li></ol>
+      <form class="card stack-4" id="paste-form" novalidate>
+        <label class="field"><span>Contract</span>
+          <textarea class="input" id="doc-text" spellcheck="false" placeholder="Paste text here"></textarea>
+        </label>
+        <div class="row">
+          <button class="btn" type="submit" id="read-btn" data-icon="search">Read it</button>
+          <label class="btn ghost upload" data-icon="upload">PDF<input type="file" id="pdf-input" accept="application/pdf,.pdf,.txt,text/plain"></label>
+          <span class="help" id="char-count">Never stored</span>
+        </div>
+        <p class="notice" id="form-notice" role="status" hidden></p>
+      </form>
+    </div>
+    <div id="preview" class="preview" aria-label="Example result"></div>
+  </section>
+
+  <section class="section" id="samples">
+    <div class="section-h"><h2>Try a sample</h2></div>
+    <div class="grid four" id="sample-list"></div>
+  </section>
+
+</main>
+
+<main id="reading-view" class="container view" hidden></main>
+
+<footer class="foot">
+  <div class="container">
+    <span>Not legal advice. Fine Print v{{VERSION}}</span>
+    <nav aria-label="Footer"><a href="how.html">How it works</a><a href="https://lab.meetdominic.me">Lab</a><a href="https://github.com/pingywon/fine-print">GitHub</a></nav>
+  </div>
+</footer>
+</body>
+</html>

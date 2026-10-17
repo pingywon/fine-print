@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lease",
+    "label": "Apartment lease",
+    "file": "docs/lease.txt",
+    "blurb": "Riverton apartment, 12 months"
+  },
+  {
+    "id": "job-offer",
+    "label": "Job offer",
+    "file": "docs/job-offer.txt",
+    "blurb": "Analyst role, $96,000"
+  },
+  {
+    "id": "gym",
+    "label": "Gym membership",
+    "file": "docs/gym.txt",
+    "blurb": "12-month club membership"
+  },
+  {
+    "id": "freelance",
+    "label": "Freelance contract",
+    "file": "docs/freelance.txt",
+    "blurb": "Website redesign, $8,500"
+  }
+]

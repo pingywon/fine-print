@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How it works | Fine Print</title>
+<meta name="robots" content="noindex">
+<link rel="icon" href="favicon.svg?v={{VERSION}}" type="image/svg+xml">
+<link rel="stylesheet" href="kit.css?v={{VERSION}}">
+<link rel="stylesheet" href="styles.css?v={{VERSION}}">
+<script type="module" src="how.js?v={{VERSION}}"></script>
+</head>
+<body>
+<header class="topbar">
+  <div class="container">
+    <a class="brand" href="./"><span class="brand-mark" data-icon="doc"></span>Fine Print</a>
+    <nav class="nav" aria-label="Site"><a href="./">Read a contract</a><a class="wide" href="https://lab.meetdominic.me">Lab</a><button class="icon-btn" id="theme" type="button"></button></nav>
+  </div>
+</header>
+<main class="container prose">
+  <h1>How it works</h1>
+  <div class="grid two">
+    <div class="step"><span class="ic" data-icon="sparkle"></span><b>Claude reads it</b><small>Claude Opus 5.5, fixed answer shape</small></div>
+    <div class="step"><span class="ic" data-icon="shield"></span><b>Every quote checked</b><small>Matched word for word in your text</small></div>
+    <div class="step"><span class="ic" data-icon="eye"></span><b>Never stored</b><small>Read once, nothing kept</small></div>
+    <div class="step"><span class="ic" data-icon="flag"></span><b>Not a lawyer</b><small>Big deal? Ask one.</small></div>
+    <div class="step"><span class="ic" data-icon="layers"></span><b>Built on</b><small>Cloudflare Workers, plain JavaScript</small></div>
+    <div class="step"><span class="ic" data-icon="github"></span><b>Open source</b><small><a href="https://github.com/pingywon/fine-print">github.com/pingywon/fine-print</a></small></div>
+  </div>
+</main>
+<footer class="foot">
+  <div class="container">
+    <span>Not legal advice. Fine Print v{{VERSION}}</span>
+    <nav aria-label="Footer"><a href="./">Read a contract</a><a href="https://lab.meetdominic.me">Lab</a></nav>
+  </div>
+</footer>
+</body>
+</html>

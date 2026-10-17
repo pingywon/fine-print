@@ -1,0 +1,147 @@
+{
+  "id": "job-offer",
+  "label": "Job offer",
+  "text": "NORTHFIELD ANALYTICS, INC.\n1200 Commerce Way, Floor 6\nWilmington, DE 19801\n\nOctober 9, 2026\n\nDear Sam Okafor,\n\nWe are pleased to offer you the position of Senior Operations Analyst at Northfield Analytics, Inc. (the \"Company\"). This letter and the attached Employee Confidentiality, Invention Assignment and Restrictive Covenant Agreement (the \"Covenant Agreement\") set out the terms of your employment.\n\n1. Position and Start Date. You will report to the Director of Revenue Operations. Your anticipated start date is November 16, 2026. This offer is contingent on the satisfactory completion of a background check and your proof of eligibility to work in the United States.\n\n2. Work Location. This is a hybrid role. You will be expected to work from the Company's Wilmington office at least three (3) days per week. The Company may change the number of required in-office days, or your assigned office, at its discretion.\n\n3. Base Salary. Your starting base salary will be $96,000.00 per year, paid in accordance with the Company's regular payroll schedule and subject to applicable withholdings. The Company may adjust your title, duties, reporting line, and compensation from time to time in its discretion.\n\n4. Annual Bonus. You will be eligible for an annual performance bonus with a target of ten percent (10%) of your base salary. Whether any bonus is paid, and its amount, will be determined by the Company in its sole discretion based on individual and Company performance. You must be employed by the Company on the date bonuses are paid to receive any bonus for the prior year.\n\n5. Signing Bonus. You will receive a one-time signing bonus of $10,000.00, less applicable withholdings, payable with your first regular paycheck. If your employment ends for any reason, whether voluntarily or involuntarily, within twenty-four (24) months of your start date, you agree to repay the full gross amount of the signing bonus within thirty (30) days of your last day of employment, and you authorize the Company to deduct any unpaid amount from your final paycheck to the extent permitted by law.\n\n6. Equity. Subject to approval by the Company's Board of Directors, you will be granted an option to purchase 4,000 shares of the Company's common stock. The option will vest over four (4) years, with twenty-five percent (25%) vesting on the first anniversary of your start date and the remainder vesting in equal monthly installments over the following thirty-six (36) months, subject to your continued employment. The exercise price will be set by the Board on the date of grant. Any vested options must be exercised within thirty (30) days after your employment ends or they will be forfeited.\n\n7. Benefits. You will be eligible to participate in the Company's medical, dental, and vision plans beginning on the first day of the month following sixty (60) days of employment, and in the Company's 401(k) plan after six (6) months of employment. The Company may modify or terminate any benefit plan at any time.\n\n8. Paid Time Off. The Company offers a flexible paid time off policy. Time off must be approved in advance by your manager. Because time off under this policy does not accrue, no payment for unused time off will be made at the end of your employment.\n\n9. Introductory Period. Your first ninety (90) days of employment will be an introductory period. During this period, you will not be eligible for severance under any Company plan or policy.\n\n10. At-Will Employment. Your employment with the Company is at-will. Either you or the Company may end the employment relationship at any time, with or without cause or notice. Nothing in this letter creates a contract of employment for any specific period.\n\n11. Covenant Agreement. As a condition of employment, you must sign the Covenant Agreement. Key terms include:\n\n(a) Non-Competition. During your employment and for eighteen (18) months after it ends for any reason, you will not, anywhere in the United States, perform services of any kind for any business that competes with the Company or that is developing products or services that would compete with the Company.\n\n(b) Non-Solicitation. During your employment and for twenty-four (24) months after it ends, you will not solicit or accept business from any customer or prospective customer of the Company, and you will not solicit or hire any Company employee or contractor.\n\n(c) Invention Assignment. You assign to the Company all inventions, works of authorship, software, ideas, and other intellectual property that you conceive or develop during your employment, whether or not during working hours, whether or not using Company equipment or information, and whether or not related to the Company's business.\n\n(d) Confidentiality. You will not use or disclose the Company's confidential information during or after your employment.\n\n(e) Remedies. If you breach the Covenant Agreement, the restricted periods will be extended by the length of the breach, and you will pay the Company's attorney's fees and costs of enforcement.\n\n12. Dispute Resolution. Any dispute arising out of your employment, including claims under federal, state, or local law, will be resolved exclusively by final and binding arbitration in Wilmington, Delaware, on an individual basis. You waive any right to bring or participate in a class or collective action. Each party will bear its own attorney's fees, except as provided in the Covenant Agreement.\n\n13. Outside Activities. While employed, you may not engage in any other employment, consulting, or business activity without the prior written approval of the Company.\n\n14. Expiration. This offer will expire if not signed and returned by 5:00 p.m. Eastern Time on October 14, 2026.\n\nWe are excited about the prospect of you joining the team.\n\nSincerely,\n\nRenee Castillo\nVice President, People Operations\nNorthfield Analytics, Inc.\n\nACCEPTED AND AGREED:\n\nSam Okafor\n\nDate: ______________",
+  "reading": {
+    "readable": true,
+    "kind_of_document": "Job offer",
+    "title": "Northfield Analytics Analyst Offer",
+    "parties": [
+      {
+        "role": "Employer",
+        "name": "Northfield Analytics, Inc."
+      },
+      {
+        "role": "Employee",
+        "name": "Sam Okafor"
+      }
+    ],
+    "bottom_line": "Decent pay, but the restrictions are broad and favor the company.",
+    "summary": "This offers you $96,000 a year plus bonus, signing bonus, and stock options. A nationwide noncompete, a strict bonus repayment rule, and a sweeping invention clause come with it.",
+    "key_terms": [
+      {
+        "label": "Base salary",
+        "value": "$96,000.00 per year",
+        "quote": "Your starting base salary will be $96,000.00 per year, paid in accordance with the Company's regular payroll schedule"
+      },
+      {
+        "label": "Bonus target",
+        "value": "10% of base salary",
+        "quote": "You will be eligible for an annual performance bonus with a target of ten percent (10%) of your base salary."
+      },
+      {
+        "label": "Signing bonus",
+        "value": "$10,000.00, first paycheck",
+        "quote": "You will receive a one-time signing bonus of $10,000.00, less applicable withholdings, payable with your first regular paycheck."
+      },
+      {
+        "label": "Stock options",
+        "value": "4,000 shares, 4-year vest",
+        "quote": "you will be granted an option to purchase 4,000 shares of the Company's common stock. The option will vest over four (4) years"
+      },
+      {
+        "label": "Office days",
+        "value": "At least 3 per week",
+        "quote": "You will be expected to work from the Company's Wilmington office at least three (3) days per week."
+      },
+      {
+        "label": "Health benefits start",
+        "value": "Month after 60 days",
+        "quote": "eligible to participate in the Company's medical, dental, and vision plans beginning on the first day of the month following sixty (60) days of employment"
+      }
+    ],
+    "red_flags": [
+      {
+        "title": "Bonus repaid even if fired",
+        "why": "You owe the full $10,000 back even if they let you go.",
+        "ask": "Repay only if you quit, prorated by months worked.",
+        "quote": "If your employment ends for any reason, whether voluntarily or involuntarily, within twenty-four (24) months of your start date, you agree to repay the full gross amount of the signing bonus"
+      },
+      {
+        "title": "Nationwide 18-month noncompete",
+        "why": "Bars any work at any competitor anywhere in the US, even if fired.",
+        "ask": "Limit to similar roles, named competitors, shorter term, and voluntary exits.",
+        "quote": "for eighteen (18) months after it ends for any reason, you will not, anywhere in the United States, perform services of any kind for any business that competes with the Company"
+      },
+      {
+        "title": "Invention grab covers everything",
+        "why": "Your personal projects on your own time could belong to them.",
+        "ask": "Exclude off-hours work unrelated to the business, plus your prior inventions.",
+        "quote": "whether or not during working hours, whether or not using Company equipment or information, and whether or not related to the Company's business."
+      },
+      {
+        "title": "One-way legal fees",
+        "why": "You pay their lawyers if you breach, they never pay yours.",
+        "ask": "Make fee-shifting mutual, or have each side pay its own.",
+        "quote": "the restricted periods will be extended by the length of the breach, and you will pay the Company's attorney's fees and costs of enforcement."
+      },
+      {
+        "title": "Broad 24-month non-solicit",
+        "why": "Blocks even accepting clients who come to you, including prospects.",
+        "ask": "Cover only active customers you worked with, and drop accepting business.",
+        "quote": "you will not solicit or accept business from any customer or prospective customer of the Company, and you will not solicit or hire any Company employee or contractor."
+      }
+    ],
+    "good_to_know": [
+      {
+        "title": "Arbitration, no class actions",
+        "why": "You give up court and group lawsuits for any job dispute.",
+        "quote": "will be resolved exclusively by final and binding arbitration in Wilmington, Delaware, on an individual basis. You waive any right to bring or participate in a class or collective action."
+      },
+      {
+        "title": "Short option exercise window",
+        "why": "You must buy vested shares within 30 days of leaving or lose them.",
+        "quote": "Any vested options must be exercised within thirty (30) days after your employment ends or they will be forfeited."
+      },
+      {
+        "title": "Bonus needs you still employed",
+        "why": "Leave before payout day and you get nothing for that year.",
+        "quote": "You must be employed by the Company on the date bonuses are paid to receive any bonus for the prior year."
+      },
+      {
+        "title": "No side work without approval",
+        "why": "Any freelance or side business needs written permission first.",
+        "quote": "While employed, you may not engage in any other employment, consulting, or business activity without the prior written approval of the Company."
+      }
+    ],
+    "dates": [
+      {
+        "label": "Offer deadline",
+        "date": "2026-10-14",
+        "when": "5:00 p.m. Eastern, already passed",
+        "quote": "This offer will expire if not signed and returned by 5:00 p.m. Eastern Time on October 14, 2026."
+      },
+      {
+        "label": "Start date",
+        "date": "2026-11-16",
+        "when": "Anticipated first day",
+        "quote": "Your anticipated start date is November 16, 2026."
+      },
+      {
+        "label": "First option vest",
+        "date": null,
+        "when": "First anniversary of your start",
+        "quote": "with twenty-five percent (25%) vesting on the first anniversary of your start date"
+      }
+    ],
+    "before_you_sign": [
+      "Confirm the offer is still open",
+      "Read the full Covenant Agreement first",
+      "Check local rules on noncompetes",
+      "List prior inventions you want excluded",
+      "Get any agreed changes in writing"
+    ],
+    "email": {
+      "subject": "Questions on my offer letter",
+      "body": "Hi Renee,\n\nThank you for the offer for the Senior Operations Analyst role. Before signing, I have a few questions.\n\n1. The deadline was October 14. Can you confirm the offer is still open and extend it?\n2. Can the signing bonus repayment apply only if I resign, and be prorated by months worked?\n3. Can the noncompete be narrowed in scope, area, and length, and not apply if I am let go?\n4. Can the invention assignment exclude off-hours work unrelated to the business and my prior inventions?\n5. Can the attorney's fees term be mutual, and the non-solicit cover only customers I worked with?\n6. Can I see the full Covenant Agreement before signing?\n\nThank you,\n[Your name]"
+    }
+  },
+  "meta": {
+    "model": "claude-opus-5-5",
+    "prompt": "2026-10-16.1",
+    "output_tokens": 4070,
+    "engine": "claude-code",
+    "generated_at": "2026-10-16T18:23:30.131Z",
+    "seconds": 48
+  }
+}

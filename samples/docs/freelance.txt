@@ -1,0 +1,42 @@
+INDEPENDENT CONTRACTOR SERVICES AGREEMENT
+
+This Independent Contractor Services Agreement (the "Agreement") is made effective as of October 12, 2026 (the "Effective Date") between Harbor & Pine Home Goods LLC, a Pennsylvania limited liability company ("Client"), and Alex Moreno, an individual doing business as Moreno Studio ("Contractor").
+
+1. SERVICES. Contractor shall redesign Client's e-commerce website, including a new visual design system, homepage, collection page, product page, and cart page templates, and shall deliver all source design files and front-end code (the "Deliverables"), as further described in the Statement of Work attached as Exhibit A.
+
+2. SCHEDULE. Contractor shall deliver final Deliverables no later than six (6) weeks after the Effective Date. Time is of the essence. If Contractor fails to deliver any Deliverable by its due date, Client may deduct $100.00 per calendar day of delay from the Fee, regardless of the cause of the delay.
+
+3. REVISIONS. Contractor shall make all revisions requested by Client until Client is fully satisfied with the Deliverables. There is no limit on the number of revision rounds included in the Fee.
+
+4. ACCEPTANCE. Client shall review each Deliverable and may accept or reject it in Client's sole discretion. A Deliverable is accepted only when Client gives written notice of acceptance. Client has no obligation to accept any Deliverable within a specific time.
+
+5. FEE. Client shall pay Contractor a fixed fee of $8,500.00 (the "Fee") for the Services. The Fee includes all revisions, meetings, travel, software, stock assets, fonts, and other expenses. Contractor shall not be reimbursed for any expenses.
+
+6. PAYMENT TERMS. Contractor shall invoice Client upon Client's written acceptance of all final Deliverables. Client shall pay each undisputed invoice within sixty (60) days of receipt. No deposit or partial payment shall be due before final acceptance. Client may withhold payment of any amount it disputes in good faith.
+
+7. OWNERSHIP OF WORK. All Deliverables, and all drafts, concepts, sketches, and other work product created by Contractor in connection with this Agreement, whether or not used by Client, are "works made for hire" and shall be the sole property of Client from the moment of creation. To the extent any such work is not a work made for hire, Contractor hereby assigns to Client all right, title, and interest in it. Contractor also grants Client a perpetual, irrevocable, royalty-free license to use any tools, code libraries, templates, or materials that Contractor owned before the Effective Date and incorporated into the Deliverables.
+
+8. PORTFOLIO. Contractor shall not display, publish, or reference the Deliverables, Client's name, or Client's logo in any portfolio, website, social media post, or case study without Client's prior written consent.
+
+9. TERMINATION. Client may terminate this Agreement at any time, for any reason, upon written notice to Contractor. Upon termination, Client shall pay Contractor only for Deliverables that Client has accepted in writing before the date of termination, prorated against the Fee, and Client shall own all work product created through the date of termination. Contractor may terminate this Agreement only if Client fails to pay an undisputed invoice within thirty (30) days after written notice of non-payment.
+
+10. NON-COMPETITION. During the term of this Agreement and for twelve (12) months afterward, Contractor shall not provide design or development services to any company that sells home goods, furniture, or home decor products online.
+
+11. NON-SOLICITATION. During the term of this Agreement and for twelve (12) months afterward, Contractor shall not solicit or accept work from any of Client's vendors, suppliers, or wholesale customers.
+
+12. INDEMNIFICATION. Contractor shall defend, indemnify, and hold harmless Client and its members, managers, and employees from and against any and all claims, losses, damages, and expenses, including attorney's fees, arising out of or relating to the Services or the Deliverables.
+
+13. LIMITATION OF CLIENT LIABILITY. In no event shall Client's total liability under this Agreement exceed the amount of the Fee actually paid to Contractor.
+
+14. INDEPENDENT CONTRACTOR. Contractor is an independent contractor and not an employee of Client. Contractor is responsible for all taxes, insurance, and benefits. Contractor shall carry general liability insurance of at least $1,000,000 per occurrence and shall name Client as an additional insured.
+
+15. CONFIDENTIALITY. Contractor shall keep confidential all non-public information about Client's business, customers, sales, and plans, during the term of this Agreement and for five (5) years afterward.
+
+16. GOVERNING LAW AND VENUE. This Agreement is governed by the laws of the Commonwealth of Pennsylvania. Any dispute shall be brought exclusively in the courts located in Berks County, Pennsylvania.
+
+17. ENTIRE AGREEMENT. This Agreement and Exhibit A are the entire agreement between the parties and supersede all prior proposals, quotes, and communications, including any proposal or estimate submitted by Contractor.
+
+CLIENT: Harbor & Pine Home Goods LLC
+By: Morgan Hale, Managing Member
+
+CONTRACTOR: Alex Moreno, d/b/a Moreno Studio
